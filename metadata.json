@@ -1,0 +1,6 @@
+{
+  "name": "CareerMind AI",
+  "description": "AI-powered career intelligence platform that turns your skills into your career with deep resume analysis, skill-gap detection, project intelligence, and personalized roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
